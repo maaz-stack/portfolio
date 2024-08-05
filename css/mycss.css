@@ -1,0 +1,19 @@
+img#logo {
+    width: 100% !important;
+    height: 30px !important;
+    object-fit: contain !important;
+}
+
+section.ftco-section.testimony-section.bg-primary {
+    background-image: linear-gradient(#00000047,#00000078), url(../images/featured-img.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+}
+footer.ftco-footer.ftco-section {
+    padding-bottom: 0 !important;
+}
+*{
+    scroll-behavior: smooth !important;
+}
